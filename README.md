@@ -16,5 +16,5 @@ e por último eu fiz o uso do CapCut que além de ser um editor de vídeo, ele t
 Com a ascensão dos vídeos curtos (ou vídeos verticais), fazer um Shorts sobre um tema que está em alta não é apenas a fórmula perfeita para se fazer um vídeo de sucesso, 
 como também é uma forma muito versátil de se compartilhar esse tipo de conhecimento que se torna cada vez mais relevante.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Apesar desse conceito de criação de vídeo, não podemos de forma alguma deixar que os robôs substituam nosso trabalho criativo, sendo um dos principais exemplos, a produção de vídeos para plataformas digitais.
