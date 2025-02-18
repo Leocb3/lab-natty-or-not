@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Shorts do Café Galactic sobre o Futuro das IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Tenho um canal no YouTube de quase 200 inscritos que aborda temas diversos, facilmente então eu poderia fazer um Shorts sobre o assunto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com)** para roteirização e revisão;
+- IA Generativa **[Speechify](https://speechify.com)** para clonagem e sintetização de voz;
+- Software **[CapCut](https://www.capcut.com/pt-br)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro eu utilizei o Microsoft Copilot escrever um texto curto, porém bem resumido e direto sobre o assunto, depois o Speechify para ele criar uma voz sintética semelhante à minha,
+e por último eu fiz o uso do CapCut que além de ser um editor de vídeo, ele tem um sistema de legendas automáticas pros vídeos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com a ascensão dos vídeos curtos (ou vídeos verticais), fazer um Shorts sobre um tema que está em alta não é apenas a fórmula perfeita para se fazer um vídeo de sucesso, 
+como também é uma forma muito versátil de se compartilhar esse tipo de conhecimento que se torna cada vez mais relevante.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Apesar desse conceito de criação de vídeo, não podemos de forma alguma deixar que os robôs substituam nosso trabalho criativo, sendo um dos principais exemplos, a produção de vídeos para plataformas digitais.
